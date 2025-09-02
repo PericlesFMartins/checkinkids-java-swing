@@ -1,6 +1,6 @@
 # Sistema de Controle para Estadia de Brinquedos
 
-![Demonstração do Check-in Kids](https://i.imgur.com/wvYEPQE.gif)
+![Demonstração do Check-in Kids](https://i.imgur.com/SPQWv7J.gif)
 
 ## Descrição
 
